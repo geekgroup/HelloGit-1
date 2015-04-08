@@ -18,4 +18,10 @@ public class MainActivity extends Activity {
 		super.onStart();
 		//geekgroup
 	}
+	
+	@Override
+	protected void onResume() {
+		super.onResume();
+		//geekgroup
+	}
 }
